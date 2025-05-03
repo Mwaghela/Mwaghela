@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and implementing on new ideas.
 - 🌱 I’m currently learning data structure and algorithm.
 - 💞️ I’m looking to collaborate on developing new tools.
-- 📫 How to reach me on manish.b.waghela@gmail.com
+- 📫 Reach me on manish.b.waghela@gmail.com
 
 <!---
 Mwaghela/Mwaghela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
